@@ -1,0 +1,11 @@
+www:
+    host:          localhost
+    user:          
+    password:      ""
+    stage:         production
+    deploy_path:   ""
+    branch:        master
+    app:
+        domain: status.dev
+        mode: development
+        debug: true
